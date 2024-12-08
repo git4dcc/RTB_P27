@@ -8,6 +8,7 @@ This module is a decoder test board with two Plux16 sockets and is part of my gr
 <details>
 <summary>See also</summary>
 
+- [RTB_D22](https://github.com/git4dcc/RTB_D22)
 - [RTB_P21](https://github.com/git4dcc/RTB_P21)
 - [RTB_P24](https://github.com/git4dcc/RTB_P24)
 
