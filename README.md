@@ -8,7 +8,7 @@ This module is a decoder test board with two Plux16 ([NEM658](https://www.morop.
 <details>
 <summary>See also</summary>
 
-- [RTB_D22](https://github.com/git4dcc/RTB_D22)
+- [RTB_D22](https://github.com/git4dcc/RTB_D22) (DCC Decoder)
 - [RTB_P21](https://github.com/git4dcc/RTB_P21)
 - [RTB_P24](https://github.com/git4dcc/RTB_P24)
 
