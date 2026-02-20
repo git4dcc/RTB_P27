@@ -8,9 +8,9 @@ This module is a decoder test board with two Plux16 ([NEM658](https://www.morop.
 <details>
 <summary>See also</summary>
 
-- [RTB_D22](https://github.com/git4dcc/RTB_D22) (DCC Decoder)
-- [RTB_P21](https://github.com/git4dcc/RTB_P21)
-- [RTB_P24](https://github.com/git4dcc/RTB_P24)
+- [RTB_D22](/../../../../git4dcc/RTB_D22) (DCC Decoder)
+- [RTB_P21](/../../../../git4dcc/RTB_P21)
+- [RTB_P24](/../../../../git4dcc/RTB_P24)
 
 </details>
 
@@ -40,7 +40,7 @@ My PCB layout uses SMD footprints with mainly 0603 parts. Reflow soldering is my
 <summary>Dependency</summary>
 <br>
 
-:yellow_circle: Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys) in the same directory tree.
+:yellow_circle: Requires my Kicad project library [RTB_SamacSys](/../../../../git4dcc/RTB_SamacSys) in the same directory tree.
 
 </details>
 
